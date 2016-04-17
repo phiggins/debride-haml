@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require "debride/haml"
+require "debride_haml"
 require "tempfile"
 
 module TestDebride; end
