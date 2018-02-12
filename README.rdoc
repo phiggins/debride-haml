@@ -9,7 +9,7 @@ Plugin to allow debride to parse Haml files.
 == REQUIREMENTS:
 
 * Debride 1.1+
-* Haml (tested with 4.0.6)
+* Haml (tested with 5.0.4)
 
 == INSTALL:
 
